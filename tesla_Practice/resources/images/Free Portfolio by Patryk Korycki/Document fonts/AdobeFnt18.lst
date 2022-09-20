@@ -1,0 +1,193 @@
+%!Adobe-FontList 1.18
+%Locale:0x415
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FontAwesome
+FamilyName:FontAwesome
+StyleName:Regular
+FullName:FontAwesome Regular
+MenuName:FontAwesome
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Users\Tigris\Desktop\Nowy folder\03. Portfolio - PDF Folder\Document fonts\fontawesome-webfont_0.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:150920
+FileModTime:1460448132
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,FontAwesome
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Medium
+FamilyName:Minion Pro
+StyleName:Medium
+FullName:Minion Pro Medium
+MenuName:Minion Pro Med
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Users\Tigris\Desktop\Nowy folder\03. Portfolio - PDF Folder\Document fonts\MinionPro-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:219416
+FileModTime:1361525924
+WeightClass:500
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,18,Minion Pro Med
+NameArray:0,Mac,4,Minion Pro Medium
+NameArray:0,Win,1,Minion Pro Med
+NameArray:0,Win,16,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Users\Tigris\Desktop\Nowy folder\03. Portfolio - PDF Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:218640
+FileModTime:1361528180
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Bold
+FamilyName:Roboto
+StyleName:Bold
+FullName:Roboto Bold
+MenuName:Roboto
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\Users\Tigris\Desktop\Nowy folder\03. Portfolio - PDF Folder\Document fonts\Roboto-Bold_1.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:127744
+FileModTime:1402703212
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Roboto Bold
+NameArray:0,Mac,4,Roboto Bold
+NameArray:0,Win,1,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Italic
+FamilyName:Roboto
+StyleName:Italic
+FullName:Roboto Italic
+MenuName:Roboto
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Users\Tigris\Desktop\Nowy folder\03. Portfolio - PDF Folder\Document fonts\Roboto-Italic_1.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:132440
+FileModTime:1402703212
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Roboto Italic
+NameArray:0,Mac,4,Roboto Italic
+NameArray:0,Win,1,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Medium
+FamilyName:Roboto
+StyleName:Medium
+FullName:Roboto Medium
+MenuName:Roboto
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Users\Tigris\Desktop\Nowy folder\03. Portfolio - PDF Folder\Document fonts\Roboto-Medium_1.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:127488
+FileModTime:1402703212
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Roboto Medium
+NameArray:0,Mac,4,Roboto Medium
+NameArray:0,Win,1,Roboto
+NameArray:0,Win,16,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Regular
+FamilyName:Roboto
+StyleName:Regular
+FullName:Roboto Regular
+MenuName:Roboto
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Users\Tigris\Desktop\Nowy folder\03. Portfolio - PDF Folder\Document fonts\Roboto-Regular_3.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:126072
+FileModTime:1402703212
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Roboto Regular
+NameArray:0,Mac,4,Roboto Regular
+NameArray:0,Win,1,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Thin
+FamilyName:Roboto
+StyleName:Thin
+FullName:Roboto Thin
+MenuName:Roboto
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Users\Tigris\Desktop\Nowy folder\03. Portfolio - PDF Folder\Document fonts\Roboto-Thin_1.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:127584
+FileModTime:1402703212
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Roboto Thin
+NameArray:0,Mac,4,Roboto Thin
+NameArray:0,Win,1,Roboto
+NameArray:0,Win,16,Roboto
+%EndFont
+
